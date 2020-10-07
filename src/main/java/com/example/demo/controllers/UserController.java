@@ -61,15 +61,9 @@ public class UserController {
 			return ResponseEntity.badRequest().build();
 		}
 		user.setPassword(bCryptPasswordEncoder.encode(user.getPassword()));
-
+		log.info("User successful created with username {}", createUserRequest.getUsername());
 		userRepository.save(user);
 		return ResponseEntity.ok(user);
-	}
-
-	@PostMapping("/sign-up")
-	public void signUp(@RequestBody User user) {
-
-		userRepository.save(user);
 	}
 	
 }
