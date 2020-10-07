@@ -1,0 +1,15 @@
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/repositories/UserRepository.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/requests/CreateUserRequest.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/repositories/CartRepository.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/repositories/ItemRepository.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/Cart.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/controllers/ItemController.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/Item.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/controllers/OrderController.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/repositories/OrderRepository.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/User.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/requests/ModifyCartRequest.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/model/persistence/UserOrder.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/controllers/CartController.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/SareetaApplication.java
+/Users/oscarenriquez/Workspace/Udacity.Java/eCommerceApp/src/main/java/com/example/demo/controllers/UserController.java
